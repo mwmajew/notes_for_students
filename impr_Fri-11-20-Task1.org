@@ -1,0 +1,28 @@
+* Notes
+What did we discussed during the labs:
+- [ ] if name equals name
+- [ ] don't print in the methods
+- [ ] try to return stuff
+- [ ] don't do small classes
+- [ ] the class attribute is not the same thing as object attribute
+- [ ] please don't use numpy next time and other libraries
+- [ ] f'strings are okay but ...
+- [ ] pep8 is the way to go
+- [ ] comments - too much of them
+- [ ] why not use static function or move it
+- [ ] don't split everything into separate files
+
+* Things to do for the improvement
+** if __name__ == __main__
+** use pep8
+** put it in one file
+** Car as classes - minimum 5 methods
+** In while loop use something called generator (check what it is)
+** Dont do print in methods
+** logging instead of printing (use logging module)
+** make good showcases
+** extra points: do multiprocessing (it will not exceed 10/10 but you will be more sure that it will get 10/10)
+** Events should be classes
+** Environment class
+
+Deadline: Thursday 15.04.2021 13:00

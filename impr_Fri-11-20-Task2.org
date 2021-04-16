@@ -1,0 +1,25 @@
+* Talking points:
+- dictionary switch
+- threading vs multiprocessing
+- DRY - Do Not Repeat Yourself
+- your code should be self explanatory
+- don't mess with python's keyword (hash, id)
+- what is generator
+- split long functions into smaller ones
+- range(len()) - this is usually not the way to go
+
+* Improvements
+- Usecase with at least:
+  - 3 Banks
+  - 12 customers
+  - 16 transactions
+- at leats two classes (can be more)
+- withdrawal, deposit, credit, change bank, delete account
+- no logging or printing allowed inside methods (only in if name equals main)
+- use pep8
+- use multiprocessing
+  - each instance of bank uses it's own process (can be very simple)
+- show at least one implementation of python's setter and getter
+- one implementation of class method (can be really simple one) - class method is not the same as normal method
+- one implementation of static method (also can be simple)
+- one implementation of dataclass (can be simple)

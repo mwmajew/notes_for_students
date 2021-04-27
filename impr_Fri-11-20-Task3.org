@@ -1,0 +1,15 @@
+
+* Improvements:
+- do not to use any (python) classes at all
+- use dictionaries to store all of the data instead of classes
+- use json to store data in files (read and write)
+- use statiscs module for calculations or sum function
+- make one use of pythons functional properties (at least one usecase of map())
+- 12 students
+- 3 classes
+- 2 schools
+- remember those are not python classes
+- show a how you can get a students average score by using his name and class name
+(also pep8 use name eq main, don't print in methods)
+
+Deadline: Thursday 27.04.2021 13:00

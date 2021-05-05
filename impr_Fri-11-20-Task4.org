@@ -1,0 +1,9 @@
+
+* Improvements
+ - make 10 tests
+ - 10 successful tests
+ - meaningfully different from each other
+ - if your reallly have a problem with your partners code then; either change it, or use or own
+ - (not mandatory) try using mock once
+
+Deadline: Thursday 06.05.2021 13:00

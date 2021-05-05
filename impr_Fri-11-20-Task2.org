@@ -7,6 +7,9 @@
 - what is generator
 - split long functions into smaller ones
 - range(len()) - this is usually not the way to go
++ dont use global
++ static, normal, class - methods
++ setters and getters
 
 * Improvements
 - Usecase with at least:
@@ -22,4 +25,4 @@
 - show at least one implementation of python's setter and getter
 - one implementation of class method (can be really simple one) - class method is not the same as normal method
 - one implementation of static method (also can be simple)
-- one implementation of dataclass (can be simple)
+- one implementation of dataclass (can be simple, read about dataclass)

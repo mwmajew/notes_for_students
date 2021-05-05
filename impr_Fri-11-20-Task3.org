@@ -12,4 +12,4 @@
 - show a how you can get a students average score by using his name and class name
 (also pep8 use name eq main, don't print in methods)
 
-Deadline: Thursday 27.04.2021 13:00
+Deadline: Thursday 29.04.2021 13:00
